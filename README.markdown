@@ -221,13 +221,13 @@ Goal: Stay updated and specialize in a niche.
 ---
 
 ## Repository Structure
-- [Algorithms-Practice](https://github.com/ML-DL-Journey/Algorithms-Practice): LeetCode/Codeforces solutions
-- [Software-Design-Projects](https://github.com/ML-DL-Journey/Software-Design-Projects): Design pattern implementations
-- [Math-for-ML](https://github.com/ML-DL-Journey/Math-for-ML): Math scripts (e.g., gradient descent)
-- [ML-Fundamentals](https://github.com/ML-DL-Journey/ML-Fundamentals): Scikit-Learn models, scratch implementations
-- [DL-Projects](https://github.com/ML-DL-Journey/DL-Projects): Neural networks, deployments
-- [ML-DL-Portfolio](https://github.com/ML-DL-Journey/ML-DL-Portfolio): Portfolio projects
-- [Niche-Projects](https://github.com/ML-DL-Journey/Niche-Projects): Specialized projects
+- [Algorithms-Practice](https://github.com/Elabbasy00/ML-DL-Journey/Algorithms-Practice): LeetCode/Codeforces solutions
+- [Software-Design-Projects](https://github.com/Elabbasy00/ML-DL-Journey/Software-Design-Projects): Design pattern implementations
+- [Math-for-ML](https://github.com/Elabbasy00/ML-DL-Journey/Math-for-ML): Math scripts (e.g., gradient descent)
+- [ML-Fundamentals](https://github.com/Elabbasy00/ML-DL-Journey/ML-Fundamentals): Scikit-Learn models, scratch implementations
+- [DL-Projects](https://github.com/Elabbasy00/ML-DL-Journey/DL-Projects): Neural networks, deployments
+- [ML-DL-Portfolio](https://github.com/Elabbasy00/ML-DL-Journey/ML-DL-Portfolio): Portfolio projects
+- [Niche-Projects](https://github.com/Elabbasy00/ML-DL-Journey/Niche-Projects): Specialized projects
 
 ---
 
